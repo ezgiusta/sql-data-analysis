@@ -96,8 +96,6 @@ These customers represent the most recently active customer group in the dataset
 - Improve iOS and Desktop performance to capture higher-spending customers
 - Focus on Store Type A while also investigating why other store types underperform
 - Analyze the factors behind the 2019 peak to understand what drove higher customer activity
-- Segment high-value customers based on purchase frequency and average order value
-- Use the most recently active customer group for retention or re-engagement analysis
 
 ## Files
 
